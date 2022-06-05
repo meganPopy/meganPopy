@@ -1,11 +1,11 @@
 - # Sobre mim #
 - ### Olá, meu nome é Tânia ###
 - ## 👍:) ##
-- 👋 Hi, I’m @meganPopy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋*Hi, I’m @meganPopy*
+- 🌱 ** Estou aprendendo atualmente a programar jogos no Scratcg=h e em JavaScript**
+- 👀  Tenho cruriosidades em aprender paginas na web. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  - 📫 Vocês podem entrar em contato comigo atraves do [email](tania.sasso@escola.pr.gov.br)
 
 <!---
 meganPopy/meganPopy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
