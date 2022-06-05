@@ -8,6 +8,7 @@
 - 📫 Vocês podem entrar em contato comigo atraves do [email](tania.sasso@escola.pr.gov.br)
   
   - > Eu estou fazendo o curso de Primeiros Passos no GitHub
+  - :blush:
 
 - ![](https://img.shields.io/badge/JavaScript-323330?style=for-the
 -badge&logo=javascript&logoColor=F7DF1E)
