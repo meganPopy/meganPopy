@@ -10,6 +10,7 @@
   - > Eu estou fazendo o curso de Primeiros Passos no GitHub
   - :blush:
 
+![] (https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 <!---
 meganPopy/meganPopy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
