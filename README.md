@@ -1,6 +1,6 @@
 - # Sobre mim #
-- ### Olá, meu nome é Tânia 
-- 👍:)
+- ### Olá, meu nome é Tânia ###
+- ## 👍:) ##
 - 👋 Hi, I’m @meganPopy
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
