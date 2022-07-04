@@ -1,9 +1,9 @@
 - # Sobre mim 
 - ### Olá, meu nome é **Tânia** ###
 - Sou professora de  Matemática e Pensamento Computacional  
-- 🌱 **Estou aprendendo atualmente a programar jogos no Scratch e em JavaScript**
+- 🌱 Estou aprendendo atualmente a programar jogos no Scratch e em JavaScript
 - 👀  Tenho cruriosidades em aprender paginas na web. 
-- 📫 Vocês podem entrar em contato comigo atraves do [email](tania.sasso@escola.pr.gov.br)
+- 📫 Vocês podem entrar em contato comigo atraves do email - tania.sasso@escola.pr.gov.br
  - ## 👍:) ##
 
 [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://editor.p5js.org/)
